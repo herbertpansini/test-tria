@@ -1,0 +1,11 @@
+version: '3.5'
+
+services:    
+    my-tria:
+        container_name: my-tria
+        image: mysql:5.7.31
+        ports: 
+            - "3306:3306"
+        environment: 
+            MYSQL_DATABASE: db_tria
+            MYSQL_ROOT_PASSWORD: root

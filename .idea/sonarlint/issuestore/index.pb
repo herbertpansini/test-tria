@@ -1,0 +1,27 @@
+
+g
+7src/test/java/br/com/tria/TestTriaApplicationTests.java,2/e/2ea1061290fae4506776d5861e81a3bfdd6ea385
+o
+?src/main/java/br/com/tria/service/dto/EquipamentoFilterDto.java,0/6/060b6543939bfa3d5ee81d1dbcf3345b81ac9a12
+{
+Ksrc/test/java/br/com/tria/controller/DepositoControllerIntegrationTest.java,9/7/97fdece3e42cc46e44733cf48d621821dfbdf496
+i
+9src/main/java/br/com/tria/service/dto/EquipamentoDto.java,d/1/d12d81beeeb3c42351eaf2e7ce2d0857348da1c5
+r
+Bsrc/main/java/br/com/tria/service/impl/EquipamentoServiceImpl.java,4/d/4dd4d49f94df29d68e3372e5cf623396c3d6d0af
+i
+9src/main/java/br/com/tria/service/EquipamentoService.java,0/4/0422bdd4779dfa0f52873418c18b6f459801f75d
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+o
+?src/main/java/br/com/tria/controller/EquipamentoController.java,1/9/194b867ce37a1d2e0cce139afb383b1d18e4c9af
+~
+Nsrc/test/java/br/com/tria/controller/EquipamentoControllerIntegrationTest.java,d/f/df14af6a020d7fe8b0387a97222ae77a1c52b608
+l
+<src/main/java/br/com/tria/controller/DepositoController.java,4/9/49353d637f686f8b9f1c0e528b9d9081fcbd62d0
+c
+3src/main/java/br/com/tria/config/SwaggerConfig.java,b/0/b033341a7a9b71ac827820d3dc13ae55e0fcaba8
+b
+2src/main/java/br/com/tria/TestTriaApplication.java,e/b/eb445061cb1b3d72f47a4acd152a81d3444d003d
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
